@@ -1,8 +1,8 @@
 {
   "makefile.launchConfigurations": [
     {
-      "cwd": "/workspaces/print",
-      "binaryPath": "/workspaces/print/print",
+      "cwd": "/workspaces/diff",
+      "binaryPath": "/workspaces/diff/diff",
       "binaryArgs": []
     }
   ]
